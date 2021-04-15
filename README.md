@@ -6,7 +6,7 @@
 
 ## Usage
 
-### **Ethereum -> Harmony**
+### Ethereum -> Harmony
 
 - ETH -> ONE
 - ETH -> Wrapped ETH
@@ -14,7 +14,7 @@
 - ERC20 -> HRC20
 - Wrapped ONE (ERC20) -> ONE
 
-### **Harmony -> Ethereum**
+### Harmony -> Ethereum
 
 - ONE -> ETH
 - ONE -> Wrapped ONE
@@ -41,3 +41,5 @@
 ## License
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+
+@2021 MochiLab
